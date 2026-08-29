@@ -1,41 +1,123 @@
-# Hi there, I'm Rehan! 👋
+# 👋 Hey, I'm [Rehan]
 
-###  Aspiring Software Engineer | Backend & Application Developer
+### `B.Tech Student` · `AI/ML` · `AI Agents` · `Automation` · `Software Development`
 
-I am a passionate undergraduate student focused on crafting robust backend systems, interactive desktop applications, and diving deep into modern software architecture. I love taking complex logic—whether it's a multi-layered web server or a grid-based puzzle engine—and turning it into clean, maintainable code.
+I like building software that **does things**, not just software that talks about doing things.
 
----
-
-###  Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Java (Core & Advanced), HTML5, CSS3, JavaScript, SQL |
-| **Backend & Web** | Servlets, JSP, JDBC, Tomcat Web Server |
-| **Databases** | MySQL |
-| **Tools & Platforms** | Git, GitHub, Swing (UI Development) |
+My current focus is on building **AI-powered systems that can understand an instruction, reason about it, choose the right tool/model, and execute the task**.
 
 ---
 
-###  Featured Projects
+## 🧠 What I'm Exploring
 
- **[Enterprise-Grade Web App] Portal Engine**
-* Built a dynamic web portal utilizing **Java Servlets, JSP, and MySQL** for persistent data management.
-* Engineered a custom security feature implementing an **automated session-idle timeout** to protect user states.
+```text
+AI Agents
+├── LLMs
+├── Tool Calling
+├── Model Routing
+├── Vision-Language Models
+├── Computer Use
+└── Local AI
 
- **[Game Engine] Retro Grid-Based Engine**
-* Developed a 2D puzzle/mechanic replica inspired by classic handheld RPGs using **Java Swing**.
-* Implemented optimized **sprite integration**, a customized visibility/flashlight mechanic, and dynamic randomized grid generation.
+Automation
+├── Desktop Automation
+├── API Integrations
+├── AI Workflows
+└── Voice Interfaces
+```
 
- **[Desktop Utility] System Executable Simulator**
-* Engineered a native Windows executable simulation tool featuring **multithreaded UI animations** (randomized progress tracking and smooth asset rendering).
-* Implemented low-level desktop interaction hooks allowing the system to run on a **custom system keyboard shortcut**.
+I'm particularly interested in combining **LLMs + vision + tools + automation** to create practical AI assistants.
 
 ---
 
-### 📈 What I'm Currently Up To
-*  **Exploring:** Open-source contribution strategies and leveling up my system design patterns.
-*  **Building:** Expanding my Java ecosystem skills toward modern enterprise frameworks and lightweight AI APIs.
-*  **Goal:** Securing a high-impact Software Engineering / Backend Internship.
+## 🔨 Current Projects
+
+### 🤖 AI Desktop Assistant
+
+Building an assistant that can understand natural-language commands and interact with the user's computer.
+
+**Open applications · Navigate · Perform actions · Automate tasks**
+
+### 👁️ Vision + LLM Agents
+
+Experimenting with combining different models for different jobs — using vision models for screen understanding and LLMs for reasoning and decision making.
+
+### 🎙️ Voice AI
+
+Exploring voice-based interaction using speech recognition, local LLMs and text-to-speech.
+
+### ⚙️ AI Automation
+
+Building systems where an LLM can call tools and APIs to perform real-world operations instead of simply returning text.
+
+---
+
+## 🛠️ Tech
+
+**Languages**
+
+`Java` `Python` `JavaScript` `TypeScript` `C`
+
+**Frontend / Backend**
+
+`React` `Next.js` `Node.js` `Django` `Servlets/JSP`
+
+**AI / Automation**
+
+`LLMs` `Ollama` `AI Agents` `Tool Calling` `VLMs` `n8n`
+
+**Databases**
+
+`PostgreSQL` `MySQL` `Oracle` `Prisma`
+
+---
+
+## 📚 Currently Learning
+
+* AI Agent architecture
+* LLM tool calling
+* Vision-Language Models
+* Model routing
+* Computer-use agents
+* Local LLM deployment
+* Backend & system design
+* DSA & problem solving
+
+---
+
+## 💡 How I Like to Build
+
+```text
+Idea
+ ↓
+Prototype
+ ↓
+Make it work
+ ↓
+Break it
+ ↓
+Understand why
+ ↓
+Make it better
+```
+
+I prefer **building and experimenting** over only following tutorials.
+
+---
+
+## 📈 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## 🤝 Connect
+
+I'm interested in **AI, agents, automation, open-source, and interesting software projects**.
+
+If you're building something interesting, I am happy to become a contributor :).
 
 ---
