@@ -1,4 +1,4 @@
-Hey, I'm <b>Rehan</b>
+Hey, I'm Rehan
 
 ### `B.Tech Student` · `AI/ML` · `AI Agents` · `Automation` · `Software Development`
 
